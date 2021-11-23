@@ -324,6 +324,16 @@ highlights:
   LspDiagnosticsUnderlineInformation: "nord8"
   LspDiagnosticsUnderlineHint: "nord10"
 
+  # Nvim LSP
+  DiagnosticsWarning: "nord13"
+  DiagnosticsError: "nord11"
+  DiagnosticsInfo: "nord8"
+  DiagnosticsHint: "nord10"
+  DiagnosticsUnderlineWarn: "nord13"
+  DiagnosticsUnderlineError: "nord11"
+  DiagnosticsUnderlineInfo: "nord8"
+  DiagnosticsUnderlineHint: "nord10"
+
   # VimWiki
   VimwikiHeader1: "nord12 - b"
   VimwikiHeader2: "nord14 - b"
